@@ -1,3 +1,3 @@
-# Diablo2_HallsOfPainLayouts
+# Halls Of Pain full Map - all 3 Layouts
 
 ![HallsOfPain_Full](Nihlathak-FullMap-fuba.png)
